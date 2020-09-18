@@ -1,13 +1,13 @@
-token = "NjEzMjEzNTEwNzA4NjI1NDIw.XVtplQ.W1t6C6Df0k8wSbKca3Ic_eQyKXQ"
+token = "NzU2NDg5MjQ2MzgxOTY1Mzk0.X2Slgw.cXFnLPhZQhRoTaKnIGMXJUo5ylI"
 
 
 owner = "493559451731623961"
 
 
-prefix = "1"
+prefix = "m"
 
 
-game = "mx"
+game = "𝓜𝓧"
 
 
 status = ONLINE
@@ -61,7 +61,7 @@ lyrics.default = "A-Z Lyrics"
 // Multiple aliases may be given, separated by commas.
 //
 // Example 1: Giving command "play" the alias "p":
-// play = [ p ]
+// play = [ p, تشغيل, عمل ]
 //
 // Example 2: Giving command "search" the aliases "yts" and "find":
 // search = [ yts, find ]
@@ -73,7 +73,7 @@ aliases {
   // Music commands
   lyrics = []
   nowplaying = [ np, current ]
-  play = []
+  play = [ p, تشغيل, عمل ]
   playlists = [ pls ]
   queue = [ list ]
   remove = [ delete ]
